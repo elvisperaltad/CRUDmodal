@@ -1,4 +1,4 @@
-pipeloine{
+pipeline{
     
     agent any
 
